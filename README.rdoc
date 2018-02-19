@@ -26,3 +26,12 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+==========================================================================================================================================================
+
+This is the finance tracker app from the Complete Ruby on Rails Developer Course
+
+In this app users will be able to track stocks, have the ability to add a stock to their portfolio, look for friends and more.
+
+Essentially the app will have an authentication system which allows them to sign-up, edit their profile, as well as log in and log out.
+
